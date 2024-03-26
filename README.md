@@ -6,5 +6,5 @@ Eu me chamo <strong>Amanda Oliveira</strong>, <strong>tenho 20 anos, sou estudan
 - 👩🏽‍💻 <strong>FICR e UNINASSAU , respectivamente.</strong>
 - 💬 Pergunte-me sobre: <strong>Programção Web e design</strong>
 - 👩🏽‍🏫 Nós podemos falar em: <strong>Português fluente, ingles básico e espanhol intermediário</strong>
-- 🌍 Sou de Recife: <strong>Me dou bem em Java e Html/CSS/Javascript</strong>
+- 🌍 Sou de Recife: <strong>Me dou bem em Java , Html/CSS/Javascript , C e Flutter</strong>
 - 👩🏽‍🎓 <strong>Minhas melhores qualidades são a comunicação, criatividade, raciocínio lógico e trabaglo em equipe.</strong>
