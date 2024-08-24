@@ -3,7 +3,7 @@
 Eu me chamo <strong>Amanda Oliveira</strong>, <strong>tenho 21 anos, sou estudante de tecnologia</strong> 👩🏽‍💻
 
 - 👩🏽‍💼 Atualmente estou cursando: <strong>Análise e desenvolvimento de sistemas</strong>
-- 👩🏽‍💻 <strong>FICR</strong>
+- 👩🏽‍💻 <strong>Estudo na FICR</strong>
 - 💬 Pergunte-me sobre: <strong>Programção Web e design</strong>
 - 👩🏽‍🏫 Nós podemos falar em: <strong>Português fluente, ingles básico e espanhol intermediário</strong>
 - 🌍 Sou de Recife: <strong>Me dou bem em Java , Html/CSS/Javascript , C e Flutter</strong>
