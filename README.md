@@ -2,6 +2,7 @@
 
 Eu me chamo <strong>Amanda Oliveira</strong>, <strong>tenho 23 anos, sou apaixonada por Dados</strong> 👩🏽‍💻
 
-- 👩🏽‍💼 Formada em <strong>Análise e desenvolvimento de sistemas</strong>
+- 👩🎓 Formada em <strong>Análise e desenvolvimento de sistemas</strong>
 - 🌍 Sou de Recife
+- 👩🏻‍🎓 Estudante de <strong>Engenharia de Software</strong>
 
